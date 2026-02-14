@@ -22,4 +22,4 @@ pi install /absolute/path/to/pi-notify-terminal-notifier
 - GitHub install path:
   - `pi install git:github.com/<you>/<repo>@v0.x`
 - Or publish to npm and users can install with:
-  - `pi install npm:@your-org/pi-notify-terminal-notifier`
+  - `pi install npm:@waraq-labs/pi-notify-terminal-notifier`
